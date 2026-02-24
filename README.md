@@ -12,7 +12,7 @@ This project uses the following technologies:
 
 ---
 
-## 🛠 Development Workflow
+##  Development Workflow
 
 1. Based on user requirements, adjust the theme and styles in `src/index.css` and `tailwind.config.ts`.
 2. Identify and define the pages that need to be implemented according to the requirements.
