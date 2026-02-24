@@ -34,7 +34,7 @@ This project uses the following technologies:
 
 ---
 
-## 🔌 Backend / API Integration
+##  Backend / API Integration
 
 * When adding new APIs or working with Supabase:
 
